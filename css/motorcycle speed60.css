@@ -19,7 +19,11 @@ body{
     top: 0px;
     left: -10px;
 }
-
+.button{
+    position: absolute;
+    left: 1055.5px;
+    top: 157px;
+}
 .button1{
     position: absolute;
     left: 1055.5px;
